@@ -2,6 +2,30 @@
  "cells": [
   {
    "cell_type": "markdown",
+   "id": "b514246f-2fb4-4595-bcad-38dd703a6c58",
+   "metadata": {},
+   "source": [
+    "![ITQ](imgLogo.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8fd5327b-0108-4477-845c-65a3b18449c2",
+   "metadata": {},
+   "source": [
+    "![ITQ](imgPortada.png)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5b295f4a-2e59-48ac-b229-025a33c23795",
+   "metadata": {},
+   "source": [
+    "Luis Pilaguano"
+   ]
+  },
+  {
+   "cell_type": "markdown",
    "id": "381a46ae-15bd-4add-8dd9-81b4a1fece37",
    "metadata": {},
    "source": [
@@ -3826,9 +3850,17 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "id": "ddae2632-af63-4396-9f07-3d435c55d3a7",
+   "metadata": {},
+   "source": [
+    "[GIT HUB](https://github.com/HLuiss17/Pr-cticas_Aprendizajee_Autom-tico_2/tree/master/Parcial%201)"
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": null,
-   "id": "ddf1c136-fa6c-4e37-a21f-2aad94823746",
+   "id": "39fb7250-90e9-4d48-b0b8-98574f0de694",
    "metadata": {},
    "outputs": [],
    "source": []
